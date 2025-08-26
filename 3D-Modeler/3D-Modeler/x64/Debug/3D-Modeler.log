@@ -1,0 +1,30 @@
+﻿  camera.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\dataStructure.h(6,10): error C1083: Cannot open include file: 'D3DX9Math.h': No such file or directory
+  (compiling source file '3D%20modeler%20ver1.0/camera.cpp')
+  
+  dxDraw.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\dataStructure.h(6,10): error C1083: Cannot open include file: 'D3DX9Math.h': No such file or directory
+  (compiling source file '3D%20modeler%20ver1.0/dxDraw.cpp')
+  
+  dxmain.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\dataStructure.h(6,10): error C1083: Cannot open include file: 'D3DX9Math.h': No such file or directory
+  (compiling source file '3D%20modeler%20ver1.0/dxmain.cpp')
+  
+  main.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\main.cpp(82,16): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\main.cpp(116,14): warning C4244: 'argument': conversion from 'WPARAM' to 'char', possible loss of data
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\main.cpp(120,12): warning C4244: 'argument': conversion from 'WPARAM' to 'char', possible loss of data
+  raycasting.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\dataStructure.h(6,10): error C1083: Cannot open include file: 'D3DX9Math.h': No such file or directory
+  (compiling source file '3D%20modeler%20ver1.0/raycasting.cpp')
+  
+  Texture.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\dataStructure.h(6,10): error C1083: Cannot open include file: 'D3DX9Math.h': No such file or directory
+  (compiling source file '3D%20modeler%20ver1.0/Texture.cpp')
+  
+  VTXloader.cpp
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\dataStructure.h(6,10): error C1083: Cannot open include file: 'D3DX9Math.h': No such file or directory
+  (compiling source file '3D%20modeler%20ver1.0/VTXloader.cpp')
+  
+  Generating Code...
+D:\git\3D-Modeler\3D-Modeler\3D modeler ver1.0\main.cpp(141,1): warning C4715: 'WindowProc': not all control paths return a value
